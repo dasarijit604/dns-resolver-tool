@@ -14,5 +14,5 @@ A simple and efficient **DNS Resolver** tool written in Python. This project all
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/<your-username>/dns_resolver.git
+https://github.com/<your-username>/dns_resolver.git](https://github.com/dasarijit604/dns-resolver-tool.git
 cd dns_resolver
